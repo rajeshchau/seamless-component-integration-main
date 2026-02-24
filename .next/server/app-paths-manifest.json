@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/blog/[slug]/page": "app/blog/[slug]/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/insight/page": "app/insight/page.js",
+  "/page": "app/page.js",
+  "/playground/page": "app/playground/page.js",
+  "/portfolio/[slug]/page": "app/portfolio/[slug]/page.js",
+  "/portfolio/page": "app/portfolio/page.js",
+  "/services/[slug]/page": "app/services/[slug]/page.js",
+  "/services/page": "app/services/page.js"
+}
