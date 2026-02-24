@@ -60,7 +60,7 @@ export default function CareersPage() {
                     transition={{ duration: 0.8 }}
                     className="max-w-4xl"
                 >
-                    <h1 className="text-6xl md:text-9xl font-black tracking-tighter leading-[0.85] mb-12 uppercase">
+                    <h1 className="text-5xl sm:text-7xl md:text-9xl font-black tracking-tighter leading-[0.85] mb-12 uppercase">
                         Join the <br /> <span className="text-primary">Logic.</span>
                     </h1>
                     <p className="text-xl md:text-3xl text-neutral-500 font-medium leading-tight max-w-2xl">

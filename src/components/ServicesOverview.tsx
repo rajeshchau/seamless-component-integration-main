@@ -48,7 +48,7 @@ export default function ServicesOverview() {
                         >
                             Our Expertise
                         </motion.span>
-                        <h2 className="text-5xl md:text-7xl font-black tracking-tighter leading-none">
+                        <h2 className="text-4xl sm:text-5xl md:text-7xl font-black tracking-tighter leading-none">
                             Discover What <br /> <span className="text-black/20">We Offer.</span>
                         </h2>
                     </div>

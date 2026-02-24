@@ -4599,6 +4599,16 @@ html {
     line-height: 1.75rem;
   }
 
+  .sm\:text-6xl {
+    font-size: 3.75rem;
+    line-height: 1;
+  }
+
+  .sm\:text-7xl {
+    font-size: 4.5rem;
+    line-height: 1;
+  }
+
   .data-\[state\=open\]\:sm\:slide-in-from-bottom-full[data-state="open"] {
     --tw-enter-translate-y: 100%;
   }
@@ -4944,6 +4954,11 @@ html {
 
   .lg\:text-7xl {
     font-size: 4.5rem;
+    line-height: 1;
+  }
+
+  .lg\:text-8xl {
+    font-size: 6rem;
     line-height: 1;
   }
 }

@@ -90,7 +90,7 @@ const ResponsiveHeroBanner: React.FC<ResponsiveHeroBannerProps> = ({
               </span>
             </div>
 
-            <h1 className="sm:text-5xl md:text-6xl lg:text-7xl leading-tight text-4xl text-white tracking-tight font-serif font-normal animate-fade-slide-in-2">
+            <h1 className="text-4xl sm:text-6xl md:text-7xl lg:text-8xl leading-[1.1] text-white tracking-tight font-serif font-normal animate-fade-slide-in-2">
               {title}
               <br className="hidden sm:block" />
               {titleLine2}

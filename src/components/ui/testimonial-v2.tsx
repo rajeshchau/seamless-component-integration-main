@@ -160,7 +160,7 @@ export function TestimonialV2() {
             >
               Testimonials
             </motion.span>
-            <h2 className="text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8">
+            <h2 className="text-4xl sm:text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8">
               Reliability <br /> <span className="text-white/20">Defined.</span>
             </h2>
             <p className="text-neutral-400 text-xl max-w-sm">

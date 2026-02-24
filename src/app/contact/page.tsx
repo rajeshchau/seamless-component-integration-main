@@ -21,7 +21,7 @@ export default function ContactPage() {
                         initial={{ opacity: 0, x: -50 }}
                         animate={{ opacity: 1, x: 0 }}
                         transition={{ duration: 0.8, ease: "circOut" }}
-                        className="text-7xl md:text-9xl font-black tracking-tighter leading-none mb-4 uppercase"
+                        className="text-5xl sm:text-7xl md:text-9xl font-black tracking-tighter leading-none mb-4 uppercase"
                     >
                         Connect<span className="text-primary">.</span>
                     </motion.h1>

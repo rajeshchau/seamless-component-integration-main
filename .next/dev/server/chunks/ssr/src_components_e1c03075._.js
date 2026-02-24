@@ -268,7 +268,7 @@ const ResponsiveHeroBanner = ({ logoUrl = "https://hoirqrkdgbmvpwutwuwj.supabase
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                        className: "sm:text-5xl md:text-6xl lg:text-7xl leading-tight text-4xl text-white tracking-tight font-serif font-normal animate-fade-slide-in-2",
+                                        className: "text-4xl sm:text-6xl md:text-7xl lg:text-8xl leading-[1.1] text-white tracking-tight font-serif font-normal animate-fade-slide-in-2",
                                         children: [
                                             title,
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {
@@ -583,7 +583,7 @@ function LinkItem({ heading, imgSrc, subheading, href }) {
                             stiffness: 200,
                             damping: 10
                         },
-                        className: "text-6xl md:text-9xl font-black tracking-tighter text-black/5 group-hover:text-black transition-colors duration-700 uppercase",
+                        className: "text-4xl sm:text-6xl md:text-9xl font-black tracking-tighter text-black/5 group-hover:text-black transition-colors duration-700 uppercase",
                         children: heading
                     }, void 0, false, {
                         fileName: "[project]/src/components/ui/interactive-hover-links.tsx",
@@ -906,7 +906,7 @@ function TestimonialV2() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8",
+                                    className: "text-4xl sm:text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8",
                                     children: [
                                         "Reliability ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
@@ -1168,7 +1168,7 @@ function ServicesOverview() {
                                         columnNumber: 25
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                        className: "text-5xl md:text-7xl font-black tracking-tighter leading-none",
+                                        className: "text-4xl sm:text-5xl md:text-7xl font-black tracking-tighter leading-none",
                                         children: [
                                             "Discover What ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {

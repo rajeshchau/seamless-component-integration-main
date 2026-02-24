@@ -119,7 +119,7 @@ function LinkItem({ heading, imgSrc, subheading, href }: LinkProps) {
             stiffness: 200,
             damping: 10
           }}
-          className="text-6xl md:text-9xl font-black tracking-tighter text-black/5 group-hover:text-black transition-colors duration-700 uppercase"
+          className="text-4xl sm:text-6xl md:text-9xl font-black tracking-tighter text-black/5 group-hover:text-black transition-colors duration-700 uppercase"
         >
           {heading}
         </motion.span>
