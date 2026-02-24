@@ -736,12 +736,12 @@ function SterlingGateKineticNavigation() {
                                                     className: "menu-list-item overflow-hidden",
                                                     "data-shape": "4",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                        href: "/insight",
+                                                        href: "/careers",
                                                         className: "nav-link block group py-2",
                                                         onClick: closeMenu,
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "nav-link-text text-5xl md:text-7xl font-bold tracking-tighter group-hover:text-primary transition-colors",
-                                                            children: "Insight"
+                                                            children: "Careers"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/ui/sterling-gate-kinetic-navigation.tsx",
                                                             lineNumber: 266,
@@ -759,14 +759,14 @@ function SterlingGateKineticNavigation() {
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                     className: "menu-list-item overflow-hidden",
-                                                    "data-shape": "5",
+                                                    "data-shape": "4",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                        href: "/contact",
+                                                        href: "/insight",
                                                         className: "nav-link block group py-2",
                                                         onClick: closeMenu,
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "nav-link-text text-5xl md:text-7xl font-bold tracking-tighter group-hover:text-primary transition-colors",
-                                                            children: "Contact us"
+                                                            children: "Insight"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/ui/sterling-gate-kinetic-navigation.tsx",
                                                             lineNumber: 271,
@@ -780,6 +780,31 @@ function SterlingGateKineticNavigation() {
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/ui/sterling-gate-kinetic-navigation.tsx",
                                                     lineNumber: 269,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    className: "menu-list-item overflow-hidden",
+                                                    "data-shape": "5",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                        href: "/contact",
+                                                        className: "nav-link block group py-2",
+                                                        onClick: closeMenu,
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                            className: "nav-link-text text-5xl md:text-7xl font-bold tracking-tighter group-hover:text-primary transition-colors",
+                                                            children: "Contact us"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/ui/sterling-gate-kinetic-navigation.tsx",
+                                                            lineNumber: 276,
+                                                            columnNumber: 21
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/ui/sterling-gate-kinetic-navigation.tsx",
+                                                        lineNumber: 275,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/ui/sterling-gate-kinetic-navigation.tsx",
+                                                    lineNumber: 274,
                                                     columnNumber: 17
                                                 }, this)
                                             ]

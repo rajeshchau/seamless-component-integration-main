@@ -262,6 +262,11 @@ export function SterlingGateKineticNavigation() {
                   </a>
                 </li>
                 <li className="menu-list-item overflow-hidden" data-shape="4">
+                  <a href="/careers" className="nav-link block group py-2" onClick={closeMenu}>
+                    <p className="nav-link-text text-5xl md:text-7xl font-bold tracking-tighter group-hover:text-primary transition-colors">Careers</p>
+                  </a>
+                </li>
+                <li className="menu-list-item overflow-hidden" data-shape="4">
                   <a href="/insight" className="nav-link block group py-2" onClick={closeMenu}>
                     <p className="nav-link-text text-5xl md:text-7xl font-bold tracking-tighter group-hover:text-primary transition-colors">Insight</p>
                   </a>

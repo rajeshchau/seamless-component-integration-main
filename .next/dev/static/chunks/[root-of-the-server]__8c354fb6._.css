@@ -1484,6 +1484,10 @@ body {
   max-width: 20rem;
 }
 
+.max-w-xl {
+  max-width: 36rem;
+}
+
 .flex-1 {
   flex: 1;
 }
@@ -1801,6 +1805,18 @@ body {
   margin-bottom: calc(2rem * var(--tw-space-y-reverse));
 }
 
+.space-y-6 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(1.5rem * var(--tw-space-y-reverse));
+}
+
+.space-y-px > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(1px * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(1px * var(--tw-space-y-reverse));
+}
+
 .self-start {
   align-self: flex-start;
 }
@@ -2029,6 +2045,11 @@ body {
   border-color: #ffffff0d;
 }
 
+.border-neutral-100 {
+  --tw-border-opacity: 1;
+  border-color: rgb(245 245 245 / var(--tw-border-opacity, 1));
+}
+
 .border-l-transparent {
   border-left-color: #0000;
 }
@@ -2225,6 +2246,16 @@ body {
 
 .bg-white\/90 {
   background-color: #ffffffe6;
+}
+
+.bg-neutral-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(245 245 245 / var(--tw-bg-opacity, 1));
+}
+
+.bg-neutral-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(212 212 212 / var(--tw-bg-opacity, 1));
 }
 
 .bg-\[linear-gradient\(to_bottom\,var\(--tw-gradient-stops\)\)\], .bg-gradient-to-b {
@@ -2612,6 +2643,10 @@ body {
   padding-top: 2rem;
 }
 
+.pb-32 {
+  padding-bottom: 8rem;
+}
+
 .text-left {
   text-align: left;
 }
@@ -2762,6 +2797,10 @@ body {
 
 .leading-tight {
   line-height: 1.25;
+}
+
+.leading-\[0\.85\] {
+  line-height: .85;
 }
 
 .tracking-\[0\.2em\] {
@@ -2998,6 +3037,10 @@ body {
 
 .text-white\/90 {
   color: #ffffffe6;
+}
+
+.text-primary-foreground\/70 {
+  color: hsl(var(--primary-foreground) / .7);
 }
 
 .underline-offset-4 {
@@ -3688,6 +3731,11 @@ html {
 
 .hover\:bg-white\/5:hover {
   background-color: #ffffff0d;
+}
+
+.hover\:bg-neutral-100:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(245 245 245 / var(--tw-bg-opacity, 1));
 }
 
 .hover\:text-accent-foreground:hover {
@@ -4863,8 +4911,16 @@ html {
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .md\:flex-row {
     flex-direction: row;
+  }
+
+  .md\:items-center {
+    align-items: center;
   }
 
   .md\:items-baseline {
@@ -4923,6 +4979,11 @@ html {
   .md\:py-24 {
     padding-top: 6rem;
     padding-bottom: 6rem;
+  }
+
+  .md\:py-32 {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
   }
 
   .md\:pl-20 {
@@ -4997,6 +5058,11 @@ html {
   .md\:text-sm {
     font-size: .875rem;
     line-height: 1.25rem;
+  }
+
+  .md\:text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
   }
 
   .md\:opacity-0 {
