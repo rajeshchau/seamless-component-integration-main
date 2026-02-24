@@ -44,10 +44,24 @@ export function Footer1() {
                         <h4 className="font-bold mb-4">Company</h4>
                         <ul className="space-y-2 text-sm text-muted-foreground">
                             <li><a href="/about" className="hover:text-primary transition-colors">About Us</a></li>
-                            <li><a href="/careers" className="hover:text-primary transition-colors">Careers</a></li>
+                            <li>
+                                <a href="/careers" className="hover:text-primary transition-colors flex items-center gap-2 group/career">
+                                    Careers
+                                    <span className="flex h-2 w-2 rounded-full bg-green-500 animate-pulse" />
+                                    <span className="text-[10px] font-bold uppercase tracking-wider text-green-500 opacity-0 group-hover/career:opacity-100 transition-opacity whitespace-nowrap">We're Hiring</span>
+                                </a>
+                            </li>
                             <li><a href="/portfolio" className="hover:text-primary transition-colors">Portfolio</a></li>
                             <li><a href="/blog" className="hover:text-primary transition-colors">Insights</a></li>
-                            <li><a href="/contact" className="hover:text-primary transition-colors">Contact</a></li>
+                            <li>
+                                <a href="/contact" className="hover:text-primary transition-colors flex items-center gap-2">
+                                    Contact
+                                    <span className="relative flex h-2 w-2">
+                                        <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
+                                        <span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
+                                    </span>
+                                </a>
+                            </li>
                         </ul>
                     </div>
 

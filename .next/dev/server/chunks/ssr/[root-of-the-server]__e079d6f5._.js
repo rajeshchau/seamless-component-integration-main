@@ -432,11 +432,28 @@ function Footer1() {
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                 href: "/careers",
-                                                className: "hover:text-primary transition-colors",
-                                                children: "Careers"
-                                            }, void 0, false, {
+                                                className: "hover:text-primary transition-colors flex items-center gap-2 group/career",
+                                                children: [
+                                                    "Careers",
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "flex h-2 w-2 rounded-full bg-green-500 animate-pulse"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/ui/footer-1.tsx",
+                                                        lineNumber: 50,
+                                                        columnNumber: 37
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "text-[10px] font-bold uppercase tracking-wider text-green-500 opacity-0 group-hover/career:opacity-100 transition-opacity whitespace-nowrap",
+                                                        children: "We're Hiring"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/ui/footer-1.tsx",
+                                                        lineNumber: 51,
+                                                        columnNumber: 37
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/src/components/ui/footer-1.tsx",
-                                                lineNumber: 47,
+                                                lineNumber: 48,
                                                 columnNumber: 33
                                             }, this)
                                         }, void 0, false, {
@@ -451,12 +468,12 @@ function Footer1() {
                                                 children: "Portfolio"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/ui/footer-1.tsx",
-                                                lineNumber: 48,
+                                                lineNumber: 54,
                                                 columnNumber: 33
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/ui/footer-1.tsx",
-                                            lineNumber: 48,
+                                            lineNumber: 54,
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -466,27 +483,52 @@ function Footer1() {
                                                 children: "Insights"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/ui/footer-1.tsx",
-                                                lineNumber: 49,
+                                                lineNumber: 55,
                                                 columnNumber: 33
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/ui/footer-1.tsx",
-                                            lineNumber: 49,
+                                            lineNumber: 55,
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                 href: "/contact",
-                                                className: "hover:text-primary transition-colors",
-                                                children: "Contact"
-                                            }, void 0, false, {
+                                                className: "hover:text-primary transition-colors flex items-center gap-2",
+                                                children: [
+                                                    "Contact",
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "relative flex h-2 w-2",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                className: "animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/components/ui/footer-1.tsx",
+                                                                lineNumber: 60,
+                                                                columnNumber: 41
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                className: "relative inline-flex rounded-full h-2 w-2 bg-green-500"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/components/ui/footer-1.tsx",
+                                                                lineNumber: 61,
+                                                                columnNumber: 41
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/src/components/ui/footer-1.tsx",
+                                                        lineNumber: 59,
+                                                        columnNumber: 37
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/src/components/ui/footer-1.tsx",
-                                                lineNumber: 50,
+                                                lineNumber: 57,
                                                 columnNumber: 33
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/ui/footer-1.tsx",
-                                            lineNumber: 50,
+                                            lineNumber: 56,
                                             columnNumber: 29
                                         }, this)
                                     ]
@@ -508,7 +550,7 @@ function Footer1() {
                                     children: "Newsletter"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/ui/footer-1.tsx",
-                                    lineNumber: 55,
+                                    lineNumber: 69,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -519,26 +561,26 @@ function Footer1() {
                                             className: "bg-muted/50 border-none"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/ui/footer-1.tsx",
-                                            lineNumber: 57,
+                                            lineNumber: 71,
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
                                             children: "Subscribe"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/ui/footer-1.tsx",
-                                            lineNumber: 58,
+                                            lineNumber: 72,
                                             columnNumber: 29
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/ui/footer-1.tsx",
-                                    lineNumber: 56,
+                                    lineNumber: 70,
                                     columnNumber: 25
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/ui/footer-1.tsx",
-                            lineNumber: 54,
+                            lineNumber: 68,
                             columnNumber: 21
                         }, this)
                     ]
@@ -554,7 +596,7 @@ function Footer1() {
                             children: "© 2026 ConvergeDigitals Agency. All rights reserved."
                         }, void 0, false, {
                             fileName: "[project]/src/components/ui/footer-1.tsx",
-                            lineNumber: 64,
+                            lineNumber: 78,
                             columnNumber: 21
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -566,7 +608,7 @@ function Footer1() {
                                     children: "Privacy Policy"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/ui/footer-1.tsx",
-                                    lineNumber: 66,
+                                    lineNumber: 80,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -575,7 +617,7 @@ function Footer1() {
                                     children: "Terms of Service"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/ui/footer-1.tsx",
-                                    lineNumber: 67,
+                                    lineNumber: 81,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -584,19 +626,19 @@ function Footer1() {
                                     children: "Cookie Policy"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/ui/footer-1.tsx",
-                                    lineNumber: 68,
+                                    lineNumber: 82,
                                     columnNumber: 25
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/ui/footer-1.tsx",
-                            lineNumber: 65,
+                            lineNumber: 79,
                             columnNumber: 21
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/ui/footer-1.tsx",
-                    lineNumber: 63,
+                    lineNumber: 77,
                     columnNumber: 17
                 }, this)
             ]
