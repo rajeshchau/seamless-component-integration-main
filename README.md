@@ -1,73 +1,42 @@
-# Welcome to your Lovable project
+# ConvergeDigitals – Precision Logic. Premium Motion.
 
-## Project info
+ConvergeDigitals is a high-performance digital agency specializing in bridging the gap between abstract vision and technical reality. We build world-class digital experiences for growth-focused brands.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 Vision
+Engineering perfection with precision. We believe in logic-driven architecture and kinetic innovation that feels alive.
 
-## How can I edit this code?
+## 🛠️ Technology Stack
+- **Framework**: Next.js 16 (App Router)
+- **UI & Motion**: Framer Motion, GSAP, Radix UI, shadcn-ui
+- **Styling**: Tailwind CSS
+- **Language**: TypeScript
+- **Runtime**: Node.js
 
-There are several ways of editing your application.
+## 📦 Getting Started
 
-**Use Lovable**
+### Prerequisites
+- Node.js (Latest LTS)
+- npm or yarn
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+### Installation
+```bash
+# 1. Clone the repository
+git clone <repository-url>
 
-Changes made via Lovable will be committed automatically to this repo.
+# 2. Navigate to directory
+cd convergedigitals-main
 
-**Use your preferred IDE**
+# 3. Install dependencies
+npm install
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 🏗️ Building for Production
+```bash
+npm run build
+```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+© 2026 ConvergeDigitals Agency. All rights reserved.
