@@ -7,7 +7,6 @@
   "/contact/page": "app/contact/page.js",
   "/insight/page": "app/insight/page.js",
   "/page": "app/page.js",
-  "/playground/page": "app/playground/page.js",
   "/portfolio/[slug]/page": "app/portfolio/[slug]/page.js",
   "/portfolio/page": "app/portfolio/page.js",
   "/services/[slug]/page": "app/services/[slug]/page.js",

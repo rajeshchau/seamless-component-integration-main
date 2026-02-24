@@ -1,12 +1,8 @@
 import ResponsiveHeroBanner from "@/components/ui/responsive-hero-banner";
-import { TextParallaxContentExample } from "@/components/ui/text-parallax-content-scroll";
-import { TimelineDemo } from "@/components/ui/timeline-demo";
 import { InteractiveHoverLinks } from "@/components/ui/interactive-hover-links";
 import { TestimonialV2 } from "@/components/ui/testimonial-v2";
-import { CoreValueStats } from "@/components/ui/core-value-stats";
 import { Marquee } from "@/components/ui/marquee";
 import ServicesOverview from "@/components/ServicesOverview";
-import PortfolioPreview from "@/components/PortfolioPreview";
 
 export default function Home() {
     return (

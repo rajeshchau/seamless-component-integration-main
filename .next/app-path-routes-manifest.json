@@ -7,7 +7,6 @@
   "/contact/page": "/contact",
   "/insight/page": "/insight",
   "/page": "/",
-  "/playground/page": "/playground",
   "/portfolio/[slug]/page": "/portfolio/[slug]",
   "/portfolio/page": "/portfolio",
   "/services/[slug]/page": "/services/[slug]",
